@@ -24,11 +24,11 @@ I'm at the start of my tech journey, and I learn best by building. I'm intereste
 
 
 
-\- 🔭 \*\*Looking for:\*\* my next project to build
+\- 🔭 \_\_Looking for:\_\_ my next project to build
 
-\- 📚 \*\*Currently learning:\*\* Python (in college), web development
+\- 📚 \_\_Currently learning:\_\_ Python (in college), web development
 
-\- 🤝 \*\*Open to collaborating on:\*\* social impact, community-focused projects, and startup ideas worth pursuing
+\- 🤝 \_\_Open to collaborating on:\_\_ social impact, community-focused projects, and startup ideas worth pursuing
 
 
 
@@ -131,6 +131,4 @@ I'm planning my next project around a problem faced by local small businesses. M
 
 
 ⭐ \*Open to club projects, collaborations and startup ideas. Feel free to reach out!\*
-
-
 
